@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
+  <url>
+    <loc>pmavros.com/about.html</loc>
+    <lastmod>2021-06-01T00:02:01+08:00</lastmod>
+  </url>
+  <url>
+    <loc>pmavros.com/article.html</loc>
+    <lastmod>2021-05-17T09:34:53+08:00</lastmod>
+  </url>
+  <url>
+    <loc>pmavros.com/blog.html</loc>
+    <lastmod>2021-05-31T23:07:48+08:00</lastmod>
+  </url>
+  <url>
+    <loc>pmavros.com/</loc>
+    <lastmod>2021-06-01T10:06:48+08:00</lastmod>
+  </url>
+  <url>
+    <loc>pmavros.com/projects.html</loc>
+    <lastmod>2021-06-01T00:28:13+08:00</lastmod>
+  </url>
+  <url>
+    <loc>pmavros.com/publications.html</loc>
+    <lastmod>2021-06-01T09:59:04+08:00</lastmod>
+  </url>
+  <url>
+    <loc>pmavros.com/posts/2021-05-31-welcome/</loc>
+    <lastmod>2021-05-31T23:28:55+08:00</lastmod>
+  </url>
+  <url>
+    <loc>pmavros.com/posts/2021-05-31-working-with-distill/</loc>
+    <lastmod>2021-05-31T23:22:30+08:00</lastmod>
+  </url>
+  <url>
+    <loc>pmavros.com/projects/</loc>
+    <lastmod>2021-06-01T00:07:31+08:00</lastmod>
+  </url>
+</urlset>

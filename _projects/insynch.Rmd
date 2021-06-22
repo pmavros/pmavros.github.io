@@ -1,0 +1,14 @@
+---
+title: "InSynch"
+description: |
+  An android app for research
+author:
+  - name: Panos Mavros
+date: "`r Sys.Date()`"
+output: distill::distill_article
+listing: projects
+---
+
+This is a project I want to talk about.
+
+

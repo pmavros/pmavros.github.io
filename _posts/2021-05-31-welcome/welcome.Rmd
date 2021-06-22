@@ -1,0 +1,22 @@
+---
+title: "welcome"
+description: |
+  The first post of the new blog.
+author:
+  - name: Panos Mavros
+    url: {}
+date: 05-31-2021
+citation_url: pmavros.com
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Welcome to my blog! After a long hiatus with publishing a blog, this is where I will be sharing updates, thoughts and code. 
+
+

@@ -1,0 +1,26 @@
+---
+title: "Panos Mavros"
+image: "Panos.jpg"
+links:
+  # - label: Future Cities Laboratory
+  #   url: "https://fcl.ethz.ch/people/Researchers/PanagiotisMavros.html"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/panosmavros/"
+  # - label: Twitter
+  #   url: "https://twitter.com/mavrosP"
+  # - label: GitHub
+  #   url: "https://github.com/pmavros"
+  - label: ResearchGate
+    url: "https://www.researchgate.net/profile/Panagiotis-Mavros-2"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=mzjnG8gAAAAJ&hl=en"
+  - label: Email
+    url: "mailto:mavros@arch.ethz.ch"
+site: distill::distill_website
+output:
+  postcards::jolla #trestles
+---
+Hi there! 
+</p>
+I am an architecturally-trained spatial cognition scientist living in Singapore. Currently I work as a senior post-doctoral researcher at the [Future Cities Laboratory (FCL)](https://fcl.ethz.ch/people/Researchers/PanagiotisMavros.html) of the Singapore-ETH Centre and the Chair of Cognitive Science, ETH Zürich. I love talking about cities, urban design, navigation, and cycling.
+

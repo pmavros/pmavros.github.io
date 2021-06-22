@@ -1,0 +1,19 @@
+[
+  {
+    "path": "projects/",
+    "title": "InSynch",
+    "description": "An android app for research",
+    "author": [
+      {
+        "name": "Panos Mavros",
+        "url": {}
+      }
+    ],
+    "date": "2021-06-01",
+    "categories": [],
+    "contents": "\nThis is a project I want to talk about.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-06-01T00:07:31+08:00",
+    "input_file": {}
+  }
+]

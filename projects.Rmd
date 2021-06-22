@@ -1,0 +1,13 @@
+---
+title: "Projects"
+listing: projects # do this exactly
+
+# output: distill::distill_article
+
+---
+
+This is where I will list my cool projects.
+
+# Projects
+
+[InSynch](projects/insynch.html)

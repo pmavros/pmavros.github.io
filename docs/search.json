@@ -1,0 +1,55 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About me",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\nI am a post-doctoral researcher at the Future Cities Laboratory of the Singapore-ETH Centre.\nBio\nI hold a PhD on Advanced Spatial Analysis from the Centre for Advanced Spatial Analysis (CASA), The Bartlett, University College London (UCL), studied Digital Media and Culture at the University of Edinburgh and Archicture Engineering at the National Technical University of Athens (NTUA).\n\n\n\n",
+      "last_modified": "2021-06-01T10:05:49+08:00"
+    },
+    {
+      "path": "article.html",
+      "title": "Untitled",
+      "description": "A new article created using the Distill format.\n",
+      "author": [
+        {
+          "name": "Nora Jones",
+          "url": "https://example.com/norajones"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\nThis content will appear in the gutter of the article.\n\n\n\n",
+      "last_modified": "2021-06-01T10:05:51+08:00"
+    },
+    {
+      "path": "blog.html",
+      "title": "Blog",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-06-01T10:05:52+08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Panos Mavros",
+      "author": [],
+      "contents": "\n\n          \n          \n          Panos Mavros\n          \n          \n          Home\n          About\n          Publications\n          Blog\n          Projects\n          \n          \n          \n          \n          \n          \n          ☰\n          \n          \n      \n        \n          \n            Panos Mavros\n          \n          \n            \n              Hi there!\n              \n              I am an architecturally-trained spatial cognition scientist living in Singapore. Currently I work as a senior post-doctoral researcher at the Future Cities Laboratory (FCL) of the Singapore-ETH Centre and the Chair of Cognitive Science, ETH Zürich. I love talking about cities, urban design, navigation, and cycling.\n            \n            \n              Hi there!\n              \n              I am an architecturally-trained spatial cognition scientist living in Singapore. Currently I work as a senior post-doctoral researcher at the Future Cities Laboratory (FCL) of the Singapore-ETH Centre and the Chair of Cognitive Science, ETH Zürich. I love talking about cities, urban design, navigation, and cycling.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      LinkedIn\n                    \n                  \n                \n                                \n                  \n                    \n                      ResearchGate\n                    \n                  \n                \n                                \n                  \n                    \n                      Google Scholar\n                    \n                  \n                \n                                \n                  \n                    \n                      Email\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    LinkedIn\n                  \n                \n                                \n                  \n                    ResearchGate\n                  \n                \n                                \n                  \n                    Google Scholar\n                  \n                \n                                \n                  \n                    Email\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2021-06-01T10:06:51+08:00"
+    },
+    {
+      "path": "projects.html",
+      "title": "Projects",
+      "author": [],
+      "contents": "\nThis is where I will list my cool projects.\nProjects\nInSynch\n\n\n\n",
+      "last_modified": "2021-06-01T10:05:53+08:00"
+    },
+    {
+      "path": "publications.html",
+      "title": "Publications",
+      "author": [],
+      "contents": "\n\nContents\nPeer reviewed publications\n\nPeer reviewed publications\nMavros, P., other, other\n\n\n\n",
+      "last_modified": "2021-06-01T10:05:54+08:00"
+    }
+  ],
+  "collections": ["posts/posts.json", "projects/projects.json"]
+}
