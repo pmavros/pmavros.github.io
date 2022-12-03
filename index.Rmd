@@ -22,5 +22,6 @@ output:
 ---
 Hi there! 
 </p>
-I am an architecturally-trained spatial cognition scientist living in Singapore. Currently I work as a senior post-doctoral researcher at the [Future Cities Laboratory (FCL)](https://fcl.ethz.ch/people/Researchers/PanagiotisMavros.html) of the Singapore-ETH Centre and the Chair of Cognitive Science, ETH Zürich. I love talking about cities, urban design, navigation, and cycling.
+I am an architecturally-trained spatial cognition scientist living in --Singapore-- Paris, where I am an Assistant Professor of Applied Psychology Design and Digital Technologies at [Télécom Paris](https://www.telecom-paris.fr/), at the [Institut  Polytechnique de Paris (IP-Paris)](https://www.ip-paris.fr/).
+I was previously a senior post-doctoral researcher at the [Future Cities Laboratory (FCL)](https://fcl.ethz.ch/people/Researchers/PanagiotisMavros.html) of the Singapore-ETH Centre and the Chair of Cognitive Science, ETH Zürich. I love talking about cities, urban design, navigation, and cycling.
 
